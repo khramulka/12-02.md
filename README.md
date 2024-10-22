@@ -44,23 +44,23 @@ customer         | customer_id
 
 #### 1.2. Создайте учётную запись sys_temp.
 
-![1.2](/files/1-2.png)
+![1.2](https://github.com/koposow/sql1/blob/main/files/1-2.png)
 
 #### 1.3. Выполните запрос на получение списка пользователей в базе данных. (скриншот)
 
-![1.3](/files/1-3.png)
+![1.3](https://github.com/koposow/sql1/blob/main/files/1-3.png)
 
 #### 1.4. Дайте все права для пользователя sys_temp. 
-![1.4](/files/1-4.png)
+![1.4](https://github.com/koposow/sql1/blob/main/files/1-4.png)
 
 #### 1.5. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
-![1.5](/files/1-5.png)
+![1.5](https://github.com/koposow/sql1/blob/main/files/1-5.png)
 
 #### 1.7. Восстановите дамп в базу данных.
-![1.7](/files/1-7.png)
+![1.7](https://github.com/koposow/sql1/blob/main/files/1-7.png)
 
 #### 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
-![1.8](/files/1-8.png)
+![1.8](https://github.com/koposow/sql1/blob/main/files/1-8.png)
 
 ### Решение 2:
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
@@ -69,8 +69,8 @@ customer         | customer_id
 customer         | customer_id
 ```
 
-![2](/files/2.png)
+![2](https://github.com/koposow/sql1/blob/main/files/2.png)
 
-![2-1](/files/2-1.png)
+![2-1](https://github.com/koposow/sql1/blob/main/files/2-1.png)
 
-[Сформированная таблица](/files/new_table_202401182155.xlsx)
+
