@@ -40,7 +40,7 @@ customer         | customer_id
 ### Решение 1:
 
 #### 1.1. Поднимите чистый инстанс MySQL версии 8.0+. Можно использовать локальный сервер или контейнер Docker.
-![1.1]([/files/1-1.png](https://github.com/koposow/sql1/blob/main/files/1-1.png))
+![1.1](https://github.com/koposow/sql1/blob/main/files/1-1.png)
 
 #### 1.2. Создайте учётную запись sys_temp.
 
